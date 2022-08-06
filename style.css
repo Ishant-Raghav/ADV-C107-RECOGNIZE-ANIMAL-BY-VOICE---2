@@ -1,0 +1,36 @@
+body
+{
+    font-family: Square Peg;
+    background: #3ba0c9;
+}
+.header_div
+{
+    background-color: #2fd5bc;
+    color:white;
+}
+.header_div p{
+    font-family: Arial, Helvetica, sans-serif;
+    letter-spacing: 2px;
+    font-size: 12px;
+    font-weight: bolder;
+}
+.main_div button
+{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin-top: 30px;
+    width: 130px;
+    font-weight: bolder;
+    letter-spacing: 3px;
+}
+.copy_right_footer
+{
+    position: fixed;
+    color: #b50e0e;
+    bottom: 0 ;
+    width: 100%;
+    font-size:18px ;
+    background-color: #2fbfd5;
+    line-height: 3;
+    text-align: center;
+    text-shadow: 5px 5px 5px rgb(151, 149, 149);
+}
